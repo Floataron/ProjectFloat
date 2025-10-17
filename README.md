@@ -4,6 +4,8 @@ An attempt on creating a game using Three.js and Cannon.es.
 Made two executables, one for Mac and one for Windows. Which can be found in the release tab.
 
 Tried to create a small gameplay loop with UI and timer. 
+Only for desktop.
+Has performance issues on bigger screens sadly :(.
 
 How fast can you reach the top part?
 
